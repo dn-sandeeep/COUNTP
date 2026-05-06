@@ -9,7 +9,6 @@ fun main(){
         }else{
             println(0)
         }
-
     }
 
 }
